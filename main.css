@@ -1,0 +1,193 @@
+/*Hintergrundfarbe, Schriftart, Schriftfarbe*/
+body {
+    color: blueviolet;
+    background-color: beige;
+    font-family: sans-serif;
+}
+
+/*Positionierung eines Bildes*/
+.mainBanner {
+
+    margin: 75px;
+}
+
+/*Dieser Kasten auf der Homepage*/
+.welcomingHome {
+    color: aliceblue;
+    margin: 150px;
+    padding: 20px;
+    border: solid 10px black;
+    background: linear-gradient(45deg, blue, pink);
+}
+
+/*Style meiner Buttons*/
+button {
+    border-radius: 2em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    color: #FFFFFF;
+    background-color: #4eb5f1;
+    text-align: center;
+    margin: 30px;
+    padding: 10px 25px 10px 25px;
+}
+
+/*Searchbar Positionierung*/
+.searchBar {
+    margin: 30px;
+
+
+}
+
+/*Bild Positionierung*/
+.companylogo {
+    background-color: beige;
+    float: right;
+}
+
+/*Bild als Hintergrundbild*/
+.topSpace {
+    background-image: url(banner1.jpg);
+}
+
+
+/*Bild Positionierung*/
+.mainLogo {
+    background-color: beige;
+    float: left;
+}
+
+/*Bild Positionierung*/
+.iconsMain {
+    margin-left: 30px;
+}
+
+/*Bild Positionierung*/
+.bracketsPic {
+    float: right;
+}
+
+/*Bild Positionierung*/
+.thonnyPic {
+    float: right;
+}
+
+/*Positionierung vom Login kasten. Ich habe diese Idee von spotify.com bekommen.*/
+.login {
+    margin-left: 650px;
+    border: solid 2px black;
+    border-width: thick;
+    margin-top: 120px;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 20px;
+    height: 700px;
+    width: 500px;
+}
+
+/*Bild Positionierung*/
+.loginpic {
+    margin-left: 600px;
+}
+
+/*Textgröße geändert*/
+.small {
+    font-size: 15px;
+}
+
+/*Textgröße geändert*/
+.smalltext {
+    font-size: 20px;
+}
+
+/*Text größer machen und zentrieren*/
+.verif1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+/*Text größer machen und zentrieren*/
+.verif2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.verifybutton {
+    margin-left: 900px;
+}
+
+/*Positionierung vom "Quote"Kasten*/
+.quote {
+    height: 100px;
+    width: 800px;
+    border: solid 5px black;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+
+/*Tabelle1*/
+.submissions {
+    border: solid 3px gray;
+    margin-left: 200px;
+    margin-top: 30px;
+    width: 1040px;
+    height: 400px;
+}
+
+/*Tabelle2*/
+.messages {
+    border: solid 3px gray;
+    margin-left: 200px;
+    margin-top: 30px;
+    height: 220px;
+    width: 1038px;
+}
+
+/*Mein footer */
+.footer {
+    background-color: #a8a3a4;
+    border: solid 1px gray;
+    text-align: center;
+
+}
+
+.firstblog {
+    border: solid 2px black;
+    border-radius: 15px;
+}
+
+.lonely {
+    float: right;
+    margin-right: 650px;
+    height: 50px;
+    width: 500px;
+    margin-bottom: 500px;
+
+}
+
+.accountinfo {
+    text-align: center;
+    font-size: 25px;
+    border: solid 3px black;
+    border-radius: 15px;
+    height: 700px;
+    margin-right: 600px;
+    margin-left: 500px;
+
+}
+
+.learningbox {
+    border: solid 5px black;
+    height: auto;
+    width: 700px;
+    margin-left: 400px;
+    font-size: 20px;
+    border-radius: 25px;
+    margin-top: 20px;
+    padding: 25px;
+}
